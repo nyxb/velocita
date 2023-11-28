@@ -1,6 +1,3 @@
-Natürlich, hier ist die Übersetzung mit einer informelleren Ansprache:
-
-```markdown
 <p align='center'>
   <img src='https://raw.githubusercontent.com/nyxb/velocita/main/.github/assets/Velocita_banner.png' alt='Velocita - Meinungsbildende Vite Starter-Vorlage' width='600'/>
 </p>

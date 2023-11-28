@@ -20,7 +20,7 @@ Erstelle Webanwendungen schnell mit <sup><em>Velocita</em></sup>
 <br>
 
 <p align='center'>
-<a href="https://github.com/nyxb/velocita/blob/main/README.md">Englisch</a> | <b>Vereinfachtes Chinesisch</b>
+<a href="https://github.com/nyxb/velocita/blob/main/README.md">Englisch</a> | <b>German</b>
 </p>
 
 <br>

@@ -19,7 +19,7 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/nyxb/velocita/blob/main/README.zh-CN.md">简体中文</a>
+<b>English</b> | <a href="https://github.com/nyxb/velocita/blob/main/README.de-DE.md">German</a>
 <!-- Contributors: Thanks for getting interested, however we DON'T accept new translations to the README, thanks. -->
 </p>
 

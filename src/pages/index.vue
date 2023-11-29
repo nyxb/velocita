@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import Velocita from '../components/icons/Velocita.vue'
+
 defineOptions({
    name: 'IndexPage',
 })
@@ -17,7 +19,9 @@ const { t } = useI18n()
 <template>
    <div>
       <div text-4xl>
-         <div i-carbon-campsite inline-block />
+         <div inline-block>
+            <Velocita />
+         </div>
       </div>
       <p>
          <a rel="noreferrer" href="https://github.com/nyxb/velocita" target="_blank">

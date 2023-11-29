@@ -94,18 +94,18 @@ devDependencies:
   markdown-it-link-attributes:
     specifier: ^4.0.1
     version: 4.0.1
-  markdown-it-shikiji:
-    specifier: ^0.6.13
-    version: 0.6.13
+  markdown-it-shikix:
+    specifier: ^0.0.3
+    version: 0.0.3
   pnpm:
     specifier: ^8.11.0
     version: 8.11.0
   rollup:
     specifier: ^4.5.0
     version: 4.5.0
-  shikiji:
-    specifier: ^0.6.13
-    version: 0.6.13
+  shikix:
+    specifier: ^0.0.3
+    version: 0.0.3
   simple-git-hooks:
     specifier: ^2.9.0
     version: 2.9.0
@@ -7973,11 +7973,11 @@ packages:
     resolution: {integrity: sha512-pg5OK0jPLg62H4k7M9mRJLT61gUp9nvG0XveKYHMOOluASo9OEF13WlXrpAp2aj35LbedAy3QOCgQCw0tkLKAQ==}
     dev: true
 
-  /markdown-it-shikiji@0.6.13:
-    resolution: {integrity: sha512-SZ7SmZX8X3CIghbIt12aJcasXTwy4jKVBU5q8hVeLRwTN3ZsVuZ3/hzKytXYoEAx7zwUF8BO/sY7d0GhpAX6Eg==}
+  /markdown-it-shikix@0.0.3:
+    resolution: {integrity: sha512-T0C8b7byv8gq6+LYZeUy4guiW21shNqwIPf4YpLBZFww7312hP9Vl0eHW8pbIG4pRRwgGhGQZTgurSMD9owu7A==}
     dependencies:
       markdown-it: 13.0.2
-      shikiji: 0.6.13
+      shikix: 0.0.3
     dev: true
 
   /markdown-it@13.0.2:
@@ -9610,8 +9610,8 @@ packages:
     resolution: {integrity: sha512-6j1W9l1iAs/4xYBI1SYOVZyFcCis9b4KCLQ8fgAGG07QvzaRLVVRQvAy85yNmmZSjYjg4MWh4gNvlPujU/5LpA==}
     dev: true
 
-  /shikiji@0.6.13:
-    resolution: {integrity: sha512-4T7X39csvhT0p7GDnq9vysWddf2b6BeioiN3Ymhnt3xcy9tXmDcnsEFVxX18Z4YcQgEE/w48dLJ4pPPUcG9KkA==}
+  /shikix@0.0.3:
+    resolution: {integrity: sha512-rNUzDygn5VE1IitSupsmKkdkAilNvSL05dKT2ocZeGJxVtAgN1uGQS3Q0Pf3bMvVs7H4OUmtg/EOUyaEfTdx3A==}
     dependencies:
       hast-util-to-html: 9.0.0
     dev: true

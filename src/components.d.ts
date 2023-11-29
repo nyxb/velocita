@@ -13,5 +13,7 @@ declare module 'vue' {
     TheCounter: typeof import('./components/TheCounter.vue')['default']
     TheFooter: typeof import('./components/TheFooter.vue')['default']
     TheInput: typeof import('./components/TheInput.vue')['default']
+    Velocita: typeof import('./components/icons/Velocita.vue')['default']
+    Velocita2: typeof import('./components/icons/Velocita2.vue')['default']
   }
 }

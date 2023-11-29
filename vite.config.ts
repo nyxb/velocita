@@ -12,7 +12,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 import VueDevTools from 'vite-plugin-vue-devtools'
 import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
-import Shiki from 'markdown-it-shikiji'
+import Shiki from 'markdown-it-shikix'
 import WebfontDownload from 'vite-plugin-webfont-dl'
 import VueRouter from 'unplugin-vue-router/vite'
 import { VueRouterAutoImports } from 'unplugin-vue-router'
@@ -92,8 +92,8 @@ export default defineConfig({
             md.use(await Shiki({
                defaultColor: false,
                themes: {
-                  light: 'velocita-light',
-                  dark: 'velocita-dark',
+                  light: 'lumos-light',
+                  dark: 'lumos-dark',
                },
             }))
          },

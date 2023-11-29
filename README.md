@@ -9,7 +9,7 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 <br>
 
 <p align='center'>
-<a href="https://velocita.netlify.app/">Live Demo</a>
+<a href="https://velocita-preview.netlify.app/">Live Demo</a>
 </p>
 
 <br>
@@ -40,9 +40,9 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 
 - 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
 
-- 🎨 [UnoCSS](https://github.com/antfu/unocss) - the instant on-demand atomic CSS engine
+- 🎨 [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine
 
-- 😃 [Use icons from any icon sets with classes](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+- 😃 [Use icons from any icon sets with classes](https://github.com/unocss/unocss/tree/main/packages/preset-icons)
 
 - 🌍 [I18n ready](./locales)
 
@@ -73,12 +73,12 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 
 ### UI Frameworks
 
-- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [UnoCSS](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 
 ### Icons
 
 - [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
-- [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+- [Pure CSS Icons via UnoCSS](https://github.com/unocss/unocss/tree/main/packages/preset-icons)
 
 ### Plugins
 
@@ -91,7 +91,7 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 - [`unplugin-vue-macros`](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [`vite-plugin-pwa`](https://github.com/antfu/vite-plugin-pwa) - PWA
 - [`unplugin-vue-markdown`](https://github.com/antfu/unplugin-vue-markdown) - Markdown as components / components in Markdown
-  - [`markdown-it-shikix`](https://github.com/antfu/shikix) - [Shiki](https://github.com/nyxb/shikix) for syntax highlighting
+  - [`markdown-it-shikix`](https://github.com/nyxb/shikix) - [Shiki](https://github.com/nyxb/shikix) for syntax highlighting
 - [Vue I18n](https://github.com/intlify/vue-i18n-next) - Internationalization
   - [`unplugin-vue-i18n`](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - unplugin for Vue I18n
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
@@ -103,7 +103,7 @@ Mocking up web app with <b>Velocita</b><sup><em>(speed)</em></sup><br>
 ### Coding Style
 
 - Use Composition API with [`<script setup>` SFC syntax](https://github.com/vuejs/rfcs/pull/227)
-- [ESLint](https://eslint.org/) with [@antfu/eslint-config](https://github.com/antfu/eslint-config), single quotes, no semi.
+- [ESLint](https://eslint.org/) with [@nyxb/eslint-config](https://github.com/nyxb/eslint-config), single quotes, no semi.
 
 ### Dev tools
 
@@ -127,10 +127,10 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
-- [velocita-lite](https://github.com/antfu/velocita-lite) - Lightweight version of Velocita
-- [velocita-nuxt3](https://github.com/antfu/velocita-nuxt3) - Velocita for Nuxt 3
-- [velocita-nuxt-bridge](https://github.com/antfu/velocita-nuxt-bridge) - Velocita for Nuxt 2 with Bridge
-- [velocita-webext](https://github.com/antfu/velocita-webext) - WebExtension Vite starter template
+- [velocita-lite](https://github.com/nyxb/velocita-lite) - Lightweight version of Velocita
+- [velocita-nuxt3](https://github.com/nyxb/velocita-nuxt3) - Velocita for Nuxt 3
+- [velocita-nuxt-bridge](https://github.com/nyxb/velocita-nuxt-bridge) - Velocita for Nuxt 2 with Bridge
+- [velocita-webext](https://github.com/nyxb/velocita-webext) - WebExtension Vite starter template
 
 ###### Community
 
@@ -142,14 +142,14 @@ coming soon :D
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/velocita/generate).
+[Create a repo from this template on GitHub](https://github.com/nyxb/velocita/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/velocita my-velocita-app
+npx degit nyxb/velocita my-velocita-app
 cd my-velocita-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
